@@ -1,1 +1,1 @@
-coiso
+algum algoritmo bem bunda em python
